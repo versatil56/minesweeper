@@ -1,0 +1,11 @@
+[0m[[0minfo[0m] [0m[32mPrinterSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mA minefield printer[0m[0m
+[0m[[0minfo[0m] [0m[32m- should print a simple 4x4 field[0m[0m
+[0m[[0minfo[0m] [0m[31m- should print the kata solution *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  "*100[0m[0m
+[0m[[0minfo[0m] [0m[31m  [2210[0m[0m
+[0m[[0minfo[0m] [0m[31m  1*10[0m[0m
+[0m[[0minfo[0m] [0m[31m  ]1110" was not equal to "*100[0m[0m
+[0m[[0minfo[0m] [0m[31m  [2210[0m[0m
+[0m[[0minfo[0m] [0m[31m  1*10[0m[0m
+[0m[[0minfo[0m] [0m[31m  ]1110" (PrinterSpec.scala:26)[0m[0m

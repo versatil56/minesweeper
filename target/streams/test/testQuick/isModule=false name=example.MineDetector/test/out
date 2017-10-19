@@ -1,0 +1,9 @@
+[0m[[0minfo[0m] [0m[32mMineDetector:[0m[0m
+[0m[[0minfo[0m] [0m[32mA mine detector[0m[0m
+[0m[[0minfo[0m] [0m[32m- should have a field to work on[0m[0m
+[0m[[0minfo[0m] [0m[32m- should be able to sweep the field[0m[0m
+[0m[[0minfo[0m] [0m[32m- should detect where the mines are[0m[0m
+[0m[[0minfo[0m] [0m[32m- should have coordinates for each sweeped position[0m[0m
+[0m[[0minfo[0m] [0m[32m- should count the adjacent mines when there is only one mine[0m[0m
+[0m[[0minfo[0m] [0m[32m- should count the adjacent mines when there is two mines[0m[0m
+[0m[[0minfo[0m] [0m[32m- should count the adjacent mines when there is n mines[0m[0m

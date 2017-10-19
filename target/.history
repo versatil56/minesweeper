@@ -1,0 +1,30 @@
+;reload; set org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers resolveSbtClassifiers" ;*/*:dumpStructureTo /private/var/folders/89/nzqwyt1s1rq_bk5zpzkm401w0000gp/T/sbt-structure.xml
+~testQuick
+all {file:/Users/juanrodriguez/Documents/Development/minesweeperkata/}root/products {file:/Users/juanrodriguez/Documents/Development/minesweeperkata/}root/test:products
+~testQuick
+all {file:/Users/juanrodriguez/Documents/Development/minesweeperkata/}root/products {file:/Users/juanrodriguez/Documents/Development/minesweeperkata/}root/test:products
+~testQuick
+all {file:/Users/juanrodriguez/Documents/Development/minesweeperkata/}root/products {file:/Users/juanrodriguez/Documents/Development/minesweeperkata/}root/test:products
+~testQuick
+test
+all {file:/Users/juanrodriguez/Documents/Development/minesweeperkata/}root/products {file:/Users/juanrodriguez/Documents/Development/minesweeperkata/}root/test:products
+test
+tet
+test
+~testQuick
+all {file:/Users/juanrodriguez/Documents/Development/minesweeperkata/}root/products {file:/Users/juanrodriguez/Documents/Development/minesweeperkata/}root/test:products
+test
+all {file:/Users/juanrodriguez/Documents/Development/minesweeperkata/}root/products {file:/Users/juanrodriguez/Documents/Development/minesweeperkata/}root/test:products
+test
+all {file:/Users/juanrodriguez/Documents/Development/minesweeperkata/}root/products {file:/Users/juanrodriguez/Documents/Development/minesweeperkata/}root/test:products
+~testQuick
+all {file:/Users/juanrodriguez/Documents/Development/minesweeperkata/}root/products {file:/Users/juanrodriguez/Documents/Development/minesweeperkata/}root/test:products
+test
+all {file:/Users/juanrodriguez/Documents/Development/minesweeperkata/}root/products {file:/Users/juanrodriguez/Documents/Development/minesweeperkata/}root/test:products
+test
+~testQuick
+test
+~testQuick
+test
+~testQuick
+test

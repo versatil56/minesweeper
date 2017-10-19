@@ -1,0 +1,16 @@
+[0m[[0mdebug[0m] [0mRunning TaskDef(example.PrinterSpec, org.scalatest.tools.Framework$$anon$1@7b31ad52, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(example.MinefieldSpec, org.scalatest.tools.Framework$$anon$1@7b31ad52, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(example.MineSpec, org.scalatest.tools.Framework$$anon$1@7b31ad52, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(example.MineDetector, org.scalatest.tools.Framework$$anon$1@7b31ad52, false, [SuiteSelector])[0m
+[0m[[0minfo[0m] [0m[36mRun completed in 50 seconds, 990 milliseconds.[0m[0m
+[0m[[0minfo[0m] [0m[36mTotal number of tests run: 17[0m[0m
+[0m[[0minfo[0m] [0m[36mSuites: completed 4, aborted 0[0m[0m
+[0m[[0minfo[0m] [0m[36mTests: succeeded 16, failed 1, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0minfo[0m] [0m[31m*** 1 TEST FAILED ***[0m[0m
+[0m[[0mdebug[0m] [0mPassed tests:[0m
+[0m[[0mdebug[0m] [0m	example.MineDetector[0m
+[0m[[0mdebug[0m] [0m	example.MineSpec[0m
+[0m[[0mdebug[0m] [0m	example.MinefieldSpec[0m
+[0m[[31merror[0m] [0mFailed tests:[0m
+[0m[[31merror[0m] [0m	example.PrinterSpec[0m
+[0m[[31merror[0m] [0m(test:[31mtest[0m) sbt.TestsFailedException: Tests unsuccessful[0m
